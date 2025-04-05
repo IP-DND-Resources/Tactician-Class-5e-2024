@@ -1,4 +1,9 @@
 # Tactitician
+## Concept
+Unique Spell Scroll usage on a Dex/Int focused character.
+
+Support / Blue Mage adjacent
+
 ## Core Tactitician Traits
 |||
 |---|---|
