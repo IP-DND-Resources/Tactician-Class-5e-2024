@@ -2,32 +2,32 @@
 
 <div class='classTable wide'>
 
-# Tactitician
+# Tactician
 Tacticians have spent their life learning and observing others to gain their knowledge and skills. They are experts in applying their intellect in novel and effective ways. Not all Tacticians come from academic or studious backgrounds. Some have learned to survive using their wit and quick thinking. Others learned various trades and moved from job to job, taking a bit from each experience with them. A few come from other disrepute origins. The Tacticians mind is one that excels at problem solving and applying solutions quickly, efficiently, and with precision. Having been told most of their life they have what it takes to be whatever they want to be, they choose to be what they already are; a master of adaptation and ingenuity.
 
 </div>
 
-## Becoming a Tactitician
+## Becoming a Tactician
 ### As a Level 1 Character
-- Gain all the traits in the Core Tactitician Traits table.
-- Gain the Tactitician's level 1 features, which are listed in the Tactitician Features table.
+- Gain all the traits in the Core Tactician Traits table.
+- Gain the Tactician's level 1 features, which are listed in the Tactician Features table.
 - Gain your choice of any 2 Level 0 (Cantrip) Spell Scrolls.
 
 ### As a Multiclass Character
-- Gain the following Traits from the Core Tactitician Traits table: Hit Point Die, Proficiency with Caligrapher's Supplies, and training with Light Armor
-- Gain the Tactitician's level 1 features, which are listed in the Tactitician Features table.
+- Gain the following Traits from the Core Tactician Traits table: Hit Point Die, Proficiency with Caligrapher's Supplies, and training with Light Armor
+- Gain the Tactician's level 1 features, which are listed in the Tactician Features table.
 
-### Tactitician Class Features
-As a Tactitician, you gain the following class features when you reach the specified Tactitician levels. These features are listed in the Tactitician Features table.
+### Tactician Class Features
+As a Tactician, you gain the following class features when you reach the specified Tactician levels. These features are listed in the Tactician Features table.
 
 \column
 
-## Core Tactitician Traits
+## Core Tactician Traits
 |||
 |:---|:---|
-|**Class Name**	| Tactitician|
+|**Class Name**	| Tactician|
 |**Primary Ability**	| Dexterity and Intelligence|
-|**Hit Point Die**	| D8 per Tactitician Level|
+|**Hit Point Die**	| D8 per Tactician Level|
 |**Saving Throw <br>Proficiencies**	| Dexterity and Intelligence|
 |**Skill Proficiencies**	| Choose 2: Arcana, Acrobatics, Deception, History, Investigation, Nature, Perception, Sleight of Hand|
 |**Weapon Proficiencies**	| Simple Weapons and Martial weapons that have the Light or Finesse property|
@@ -37,12 +37,12 @@ As a Tactitician, you gain the following class features when you reach the speci
 
 <div class='classTable wide'>
 
-##### Tactitician Features
+##### Tactician Features
 |Level|Proficiency Bonus|Class Features|Mimicry|Encyclopedia|
 |:---:|:---:|:---|:---:|:---:|
 |1	|2	|Arcane Mimicry, Weapon Mastery, Broad Exposure	|2	|2	|
 |2	|2	|Duplicate, Encyclopedic Knowledge				      |2	|2	|
-|3	|2	|Tactitician Subclass							              |3	|2	|
+|3	|2	|Tactician Subclass							              |3	|2	|
 |4	|2	|Ability Score Improvement						          |3	|2	|
 |5	|3	|Investigative Mind, Cautious Nature			      |3	|3	|
 |6	|3	|Subclass Feature								                |4	|3	|
@@ -75,7 +75,7 @@ You can use and identify any Spell Scroll not on your spell list up to a Spell S
 
 You can use this feature twice. You regain one expended use when you finish a Short Rest and you regain all expended uses when you finish a Long Rest. 
 
-When you reach certain Tactitician levels, you gain more uses of this feature as shown in the Mimcry column of the Tactitician Features table.
+When you reach certain Tactician levels, you gain more uses of this feature as shown in the Mimcry column of the Tactician Features table.
 
 #### Level 1: Weapon Mastery
 Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Daggers or Hand Crossbows. Whenever you finish a long rest, you can change the kinds of wepons you choose. For example, you could switch to using the mastery properties of Short Swords and Quarterstaffs.
@@ -100,10 +100,10 @@ With the memory of an encyclopedia and a penchant for curiosity, you have memori
 
 In addition, you may choose one of the following options; **Immunities**, **Vulnerabilities**, or **Resistances**. Make an Intelligence (Investigation) check with a DC of 15 to reveal one aspect of the chosen option, if the creature has any. The DM will choose which aspect is revealed if there are multiple.
 
-You can use this feature twice. You regain one expended use when you finish a Short Rest and you regain all expended uses when you finish a Long Rest. When you reach certain Tactitician levels, you gain more uses of this feature, as shown in the Encyclopedia column of the Tactitician Features table.
+You can use this feature twice. You regain one expended use when you finish a Short Rest and you regain all expended uses when you finish a Long Rest. When you reach certain Tactician levels, you gain more uses of this feature, as shown in the Encyclopedia column of the Tactician Features table.
 
-#### Level 3: Tactitician Subclass
-You gain a Tactitician subclass of your choice. The Perfectionist, Altruist, Doppelganger, and Experimenter subclasses are detailed after this class’s description. A subclass is a specialization that grants you features at certain Tactitician levels. For the rest of your career, you gain each of your subclass’s features that are of your Tactitician level or lower.
+#### Level 3: Tactician Subclass
+You gain a Tactician subclass of your choice. The Perfectionist, Altruist, Doppelganger, and Experimenter subclasses are detailed after this class’s description. A subclass is a specialization that grants you features at certain Tactician levels. For the rest of your career, you gain each of your subclass’s features that are of your Tactician level or lower.
 
 #### Level 4: Ability Score Improvement
 You gain the Ability Score Improvement feat (see chapter 5) or another feat of your choice for which you qualify. You gain this feature again at Tactician levels 8,12, and 16.
@@ -127,7 +127,7 @@ When you make an Intelligence check, you can treat a roll of 2 or lower on the d
 #### Level 9: Efficient Duplication
 With a steady hand and a keen mind, you have become more efficient when duplicating Spell Scrolls. You need less time and gold to craft a duplicated Spell Scroll.
 
-**Arcane Forgery.** Roll a number of d4s equal to your Dexterity or Intelligence modifier and add the rolls together. Reduce the total crafting time of the new (duplicated) Spell Scroll by that many hours, to a minimum of 1 hour, and the cost by that much GP, to a minimum of 5 GP. At Tactitician level 13 these dice increase to d6s.
+**Arcane Forgery.** Roll a number of d4s equal to your Dexterity or Intelligence modifier and add the rolls together. Reduce the total crafting time of the new (duplicated) Spell Scroll by that many hours, to a minimum of 1 hour, and the cost by that much GP, to a minimum of 5 GP. At Tactician level 13 these dice increase to d6s.
 
 This bonus can only be applied to one crafted item at a time until that item is complete. If the bonus is applied to a new crafted item before the first is complete, the first crafted item cannot be finished and invested resources cannot be recovered.
 
@@ -173,8 +173,8 @@ You gain an Epic Boon feat (see chapter 5) or another feat of your choice for wh
 
 \page
 
-## Tactitician Subclasses
-A Tactitician subclass is a specialization that grants you features at certain Tactitician levels, as specified in the subclass. This section presents the Perfectionist, Altruist, Doppelganger, and Experimenter subclasses.
+## Tactician Subclasses
+A Tactician subclass is a specialization that grants you features at certain Tactician levels, as specified in the subclass. This section presents the Perfectionist, Altruist, Doppelganger, and Experimenter subclasses.
 
 
 ### Perfectionist
@@ -187,7 +187,7 @@ Your efforts have focused on the pursuit of knowledge and how to apply it with c
 #### Level 3: Repetition
 Through repetition and focus, you have learned to consistently cast some of the most basic spells.
 
-**Repetition.** After using a Spell Scroll of Level 0 (Cantrip), you can memorize the spell, or replace an already memorized spell. You can learn up to two cantrips in this way at a time. Intelligence is your spellcasting ability for these spells. You can learn an additional cantrip in this way at Tactitician level 6 and 14.
+**Repetition.** After using a Spell Scroll of Level 0 (Cantrip), you can memorize the spell, or replace an already memorized spell. You can learn up to two cantrips in this way at a time. Intelligence is your spellcasting ability for these spells. You can learn an additional cantrip in this way at Tactician level 6 and 14.
 
 #### Level 6: Practiced
 You have Advantage on Intelligence (Arcana) checks and when you take the utilize action on Intelligence and Dexterity Tools.
@@ -237,7 +237,7 @@ Supporting others fills you with a sense of accomplishment and fraternity. Once 
 #### Level 6: Rising Tide
 **Raise it up.** As a Reaction, when another creature you can see with in 60 feet would make an ability check, before the roll you can give them your support and that creature adds 1d6 to that ability check. You can use this feature a number of times equal to your Intelligence modifier per day. You regain one expended use when you finish a Short Rest and you regain all expended uses when you finish a Long Rest.
 
-**Arcane Mimicry.** Your Arcane Mimicry now gains additional uses every second Tactitician level instead of every third. This increase applies retro actively (you now have 5 uses). At Tactitician level 14 you can use Spell Scrolls up to a level of your Intelligence and your Dexterity modifier combined.
+**Arcane Mimicry.** Your Arcane Mimicry now gains additional uses every second Tactician level instead of every third. This increase applies retro actively (you now have 5 uses). At Tactician level 14 you can use Spell Scrolls up to a level of your Intelligence and your Dexterity modifier combined.
 
 #### Level 11: Teamwork
 You are always a positive multiplier in team based crafting activities. When you help someone with a crafting activity (such as scribing a scroll from their spell list), you can also add the bonus from your Efficient Duplication (applied before the time reduction from helping). This still can't reduce a crafting activity to less than 1 Hour or 5 GP and can still only be applied to one crafted item at a time. 
@@ -314,7 +314,7 @@ Imitation is the highest form of flattery. You have learned to mimic and copy us
 #### Level 3: Impersonate
 You gain proficiency in a skill and a Tool of your choice.
 
-Choose another Class's feature from the Impersonate table and make it your own. At Tactician level 14, you may pick a second choice that is different from your first choice. If your choice has options, you can change those options whenever you gain a Tactitician level.
+Choose another Class's feature from the Impersonate table and make it your own. At Tactician level 14, you may pick a second choice that is different from your first choice. If your choice has options, you can change those options whenever you gain a Tactician level.
 
 ##### Impersonate
 |Feature|Class|
@@ -426,7 +426,7 @@ When you successfully cast a spell from a Spell Scroll, something may happen to 
 - On a **2-3**, Nothing happens, and the scroll disintegrates as normal.
 - On a **4** or higher, make an Intelligence check with a DC equal to the level of the Spell Scroll. As a bonus to this roll, add either your Wisdom or Charisma modifier. If you succeed, the Spell Scroll is not consumed.
 
-This die increases to 1d6 at Tactitician level 14.
+This die increases to 1d6 at Tactician level 14.
 
 #### Level 11: Unpredictable Scribing
 In addition to duplicating a Spell Scroll, you can now attempt to scribe Spell Scrolls with unpredictable effects. Doing so uses the same rules for "Scribing Spell Scrolls" (see PHB chapter 6) for the creation of the new scroll.
